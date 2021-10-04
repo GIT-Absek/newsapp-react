@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "les-echos",
+                "name": "Les Echos"
+            },
+            "author": "Isabelle Couet, Solveig Godeluck",
+            "title": "Emploi à domicile : l'exécutif rend le crédit d'impôt instantané",
+            "description": "Inscrite dans le projet de loi de financement de la Sécurité sociale pour 2022, la réforme instaure le versement immédiat du crédit d'impôt dont bénéficient 4,2 millions de ménages pour l'emploi d'une personne à domicile. Cette niche fiscale coûtera 4,85 mill…",
+            "url": "https://www.lesechos.fr/economie-france/budget-fiscalite/emploi-a-domicile-lexecutif-rend-le-credit-dimpot-instantane-1350636",
+            "urlToImage": "https://media.lesechos.com/api/v1/images/view/61553a13d286c24605159da7/1280x720/07015679612-web-tete.jpg",
+            "publishedAt": "2021-09-30T04:15:09Z",
+            "content": "Cinq ans après la mise en place de la retenue à la source pour l'impôt sur le revenu , les particuliers employeurs vont enfin pouvoir toucher le crédit d'impôt auquel ils ont droit en temps réel, moi… [+2931 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "Guy Taylor",
+            "title": "China's Belt and Road saddles nations with billions in 'hidden debt,' study finds",
+            "description": "China's massive \"Belt and Road\" global infrastructure funding strategy is based on a \"secretive overseas development finance program\" that has saddled dozens of poor countries with nearly $400 billion worth of \"hidden debt,\" according to a new study published…",
+            "url": "https://www.washingtontimes.com/news/2021/sep/29/chinas-belt-and-road-saddles-nations-billions-hidd/",
+            "urlToImage": "https://twt-thumbs.washtimes.com/media/dupe--image/2021/05/18/sri_lanka_china_port_city_57033.jpg_2021.09.29-2021.%25i.1632961828.3_c0-118-4651-2831_s1200x700.jpg?b1d1530ee8f4c805ff515a1a80627f5ce2ea6ee4",
+            "publishedAt": "2021-09-29T15:35:45Z",
+            "content": "China‘s massive “Belt and Road” global infrastructure funding strategy is based on a “secretive overseas development finance program” that has saddled dozens of poor countries with nearly $400 billio… [+7476 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Eamon Barrett",
+            "title": "China’s pledge to defund coal could unlock fresh finance for green energy",
+            "description": "Beijing has pledged to green its Belt and Road Initiative for years, but coal has always been cheap and reliable investment.",
+            "url": "https://fortune.com/2021/09/29/chinas-pledge-to-defund-coal-could-unlock-fresh-finance-for-green-energy/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2021/09/GettyImages-490417920.jpg?resize=1200,600",
+            "publishedAt": "2021-09-29T11:19:58Z",
+            "content": "Skip to Content"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "Business Essentials",
+            "description": "Stay up-to-date with the latest business trends and information on the Canadian economy, stock market and personal finance. Learn to save money, invest in the market, grow your wealth and advance your career with new skills.",
+            "url": "https://financialpost.com/category/personal-finance/business-essentials/",
+            "urlToImage": null,
+            "publishedAt": "2021-06-17T14:07:25.0207537Z",
+            "content": "365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n © 2021 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly p… [+9 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "FP Finance",
+            "description": "Read latest breaking news, updates, and headlines. Financial Post offers information on latest national and international events & more.",
+            "url": "http://business.financialpost.com/category/fp-finance/",
+            "urlToImage": null,
+            "publishedAt": "2021-04-26T12:52:24.5397408Z",
+            "content": "365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n © 2021 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly p… [+9 chars]"
+        },
+        {
+            "source": {
+                "id": "liberation",
+                "name": "Libération"
+            },
+            "author": "Elsa Maudet",
+            "title": "Précarité énergétique : «Les journées où il pleut tout le temps, c’est un peu l’enfer»",
+            "description": "Comme 3,5 millions de ménages français, Valérie et David peinent à combattre l'humidité et les fuites dans leur maison. Pour financer les travaux, ils sont accompagnés par une association spécialisée.",
+            "url": "http://www.liberation.fr/france/2021/02/02/precarite-energetique-les-journees-ou-il-pleut-tout-le-temps-c-est-un-peu-l-enfer_1819030",
+            "urlToImage": "https://medias.liberation.fr/photo/1375474-2021-02-margueritebornhauser-compiegnes-10jpg.jpg?modified_at=1612265502&amp;picto=fb&amp;ratio_x=191&amp;ratio_y=100&amp;width=1080",
+            "publishedAt": "2021-02-02T12:49:24Z",
+            "content": "Search\r\nDirect\r\nUser\r\n100\r\nZoom\r\nQuiz\r\n?\r\nLibération Diamond\r\nclock\r\nxml\r\nnetvibes\r\nlive\r\nanciens-numeros\r\ndata\r\ndesintox\r\ndiapo\r\nedito\r\nelection-2017\r\nelection\r\nessentiel\r\ngenerique\r\nidee\r\njo\r\nnext\r… [+467 chars]"
+        }
+    ]
+}
